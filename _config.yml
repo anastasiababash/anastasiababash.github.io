@@ -1,6 +1,6 @@
 # main text of home
 title: Anastasiia Babash
-bio: currently writes phd thesis on cybersex at the University of Tartu (Estonia) and popularizes philosophy
+bio: PhD student in Religious Studies, University of Tartu (Estonia), writer, philosophy popularizer
 
 # twitter summary info
 description: Personal website and blog about philosophy and ethics
@@ -32,10 +32,11 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
+facebook: https://www.facebook.com/anastasia.babash
+#twitter: https://twitter.com/anastasiababash
+instagram: https://www.instagram.com/br1_an/
+#linkedin: mylinkedin
+#github: mygithub
 email: anastasiababash@gmail.com
 
 # do you want a larger site? change the option below
