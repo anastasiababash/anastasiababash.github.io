@@ -12,7 +12,7 @@ layout: page
 
 <p>Outside of philosophy, I do yoga, dance tango, and work on the occasional design projects.</p> 
 
-<p>I grew up in Sevastopol, Ukraine, and I am proudly Ukrainian &#127482</p>
+<p>I grew up in Sevastopol, Ukraine, and I am proudly Ukrainian 🇺🇦</p>
 
 <h2>Skills</h2>
 
