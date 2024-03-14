@@ -1,22 +1,18 @@
 ---
-title: About
+title: About Me
 layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a Junior Research Fellow and a Ph.D. candidate in the School of Theology and Religious Studies at the University of Tartu, Estonia. I plan to receive my Ph.D. in 2024.</p> 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>My Ph.D. thesis is focused on philosophical and religious views on cybersex, as well as the ethics behind it. Broadly, I am interested in how modern technology has changed how we love, have sex, and build relationships. I am also interested in feminism and political philosophy.</p>
+
+<p>Beyond academia, I am dedicated to making philosophy accessible to a wider audience. I run my blog on philosophy and write for <a href="https://getsignal.news">Signal</a>, <a href="https://knife.media/author/anastasiya-babash/">knife.media</a>, <a href="https://beda.media">beda.media</a>, etc. I also teach in academia (University of Tartu) and outside it (<a href="https://www.inliberty.ru">inLiberty Schools</a>). I am always open to cooperation; contact me via email or any social media platform you prefer.</p>
+
+<p>Outside of philosophy, I do yoga, dance tango, and work on the occasional design projects.</p> 
+
+<p>I grew up in Sevastopol, Ukraine, and I am proudly Ukrainian &#127482</p>
 
 <h2>Skills</h2>
 
