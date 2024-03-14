@@ -1,15 +1,21 @@
 <!-- To add more icons, duplicate a section and find yout icon here -> https://fontawesome.com/v6.0/icons -->
 
 <div class="social-links">
-    {% if site.facebook %}
-        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener" alt="anchor link for social media facebook" aria-label="anchor link for social media facebook">
-            <i class="fa-brands fa-facebook"></i>
+    {% if site.telegram %}
+        <a class="link" data-title="t.me/{{ site.telegram }}" href="https://t.me/{{ site.telegram }}" target="_blank"  rel="noopener" alt="anchor link for social media telegram" aria-label="anchor link for social media telegram">
+            <i class="fa-brands fa-telegram"></i>
         </a>
     {% endif %}
 
-    {% if site.twitter %}
-        <a class="link" data-title="twitter.com/{{ site.twitter }}" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener" alt="anchor link for social media twitter" aria-label="anchor link for social media twitter">
-            <i class="fa-brands fa-x-twitter"></i>
+    {% if site.orcid %}
+        <a class="link" data-title="orcid.org/{{ site.telegram }}" href="https://orcid.org/{{ site.telegram }}" target="_blank"  rel="noopener" alt="anchor link for social media orcid" aria-label="anchor link for social media orcid">
+            <i class="fa-brands fa-orcid"></i>
+        </a>
+    {% endif %}
+    
+    {% if site.facebook %}
+        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener" alt="anchor link for social media facebook" aria-label="anchor link for social media facebook">
+            <i class="fa-brands fa-facebook"></i>
         </a>
     {% endif %}
 
@@ -19,15 +25,15 @@
         </a>
     {% endif %}
 
-    {% if site.linkedin %}
-        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank"  rel="noopener" alt="anchor link for social media linkedin" aria-label="anchor link for social media linkedin">
-            <i class="fa-brands fa-linkedin"></i>
+    {% if site.twitter %}
+        <a class="link" data-title="twitter.com/{{ site.twitter }}" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener" alt="anchor link for social media twitter" aria-label="anchor link for social media twitter">
+            <i class="fa-brands fa-x-twitter"></i>
         </a>
     {% endif %}
 
-    {% if site.telegram %}
-        <a class="link" data-title="t.me/{{ site.telegram }}" href="https://t.me/{{ site.telegram }}" target="_blank"  rel="noopener" alt="anchor link for social media telegram" aria-label="anchor link for social media telegram">
-            <i class="fa-brands fa-telegram"></i>
+    {% if site.linkedin %}
+        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank"  rel="noopener" alt="anchor link for social media linkedin" aria-label="anchor link for social media linkedin">
+            <i class="fa-brands fa-linkedin"></i>
         </a>
     {% endif %}
 
