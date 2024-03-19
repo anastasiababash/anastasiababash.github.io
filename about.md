@@ -2,7 +2,6 @@
 title: About Me
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>I am a Junior Research Fellow and a Ph.D. candidate in the School of Theology and Religious Studies at the University of Tartu, Estonia. I plan to receive my Ph.D. in 2024.</p> 
 
@@ -12,7 +11,7 @@ layout: page
 
 <p>Outside of philosophy, I do yoga, dance tango, and work on the occasional design projects.</p> 
 
-<p>I grew up in Sevastopol, Ukraine, and I am proudly Ukrainian &#127482 </p>
+<p>I grew up in Sevastopol, Ukraine, and I am proudly Ukrainian 🇺🇦</p>
 
 <h2>Skills</h2>
 
