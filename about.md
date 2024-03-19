@@ -3,7 +3,7 @@ title: About Me
 layout: page
 ---
 
-<p>I am a Junior Research Fellow and a Ph.D. candidate in the School of Theology and Religious Studies at the University of Tartu, Estonia. I plan to receive my Ph.D. in 2024.</p> 
+<p>I am a Junior Research Fellow and a Ph.D. candidate in the School of Theology and Religious Studies at the University of Tartu, Estonia. I plan to defend my Ph.D. in 2024.</p> 
 
 <p>My Ph.D. thesis is focused on philosophical and religious views on cybersex, as well as the ethics behind it. Broadly, I am interested in how modern technology has changed how we love, have sex, and build relationships. I am also interested in feminism and political philosophy.</p>
 
