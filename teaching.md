@@ -14,7 +14,7 @@ layout: page
   </tr>
 	
   <tr>
-    <td style="padding-left: 10px; padding-right: 10px;"><p>July 2020</p></td>
+    <td style="padding-left: 10px; padding-right: 10px; vertical-align: top;"><p>July 2020</p></td>
     <td style="padding-left: 10px; padding-right: 10px;">
 		<p><i>The Return of Ethics ("Возвращение этики")</i> <a href="https://www.inliberty.ru/ithink-ethics/">link (Russian)</a></p>
 	<p><ul>
@@ -22,11 +22,11 @@ layout: page
 		<li>taught and supervised using  Zoom: engaged in different <b>active-learning methods</b> and types of work (discussions, case studies, debates, games, etc.)</li>
 	</ul></p>
 	</td>
-    <td style="padding-left: 10px; padding-right: 10px;"><p>inLiberty School, online in Zoom</p></td>
+    <td style="padding-left: 10px; padding-right: 10px; vertical-align: top;"><p>inLiberty School, online in Zoom</p></td>
   </tr>
   
  <tr>
-    <td style="padding-left: 10px; padding-right: 10px;"><p>April 2021</p></td>
+    <td style="padding-left: 10px; padding-right: 10px; vertical-align: top;"><p>April 2021</p></td>
     <td style="padding-left: 10px; padding-right: 10px;">
 		<p><i>A Fair Society ("Справедливое общество")</i> <a href="https://www.inliberty.ru/schools-justice/">link (Russian)</a></p>
 	<p><ul>
@@ -35,11 +35,11 @@ layout: page
 	</ul>
 </p>
 	</td>
-    <td style="padding-left: 10px; padding-right: 10px;"><p>inLiberty School, online in Zoom</p></td>
+    <td style="padding-left: 10px; padding-right: 10px; vertical-align: top;"><p>inLiberty School, online in Zoom</p></td>
   </tr>
 
   <tr>
-   <td style="padding-left: 10px; padding-right: 10px;"><p>August 2022</p></td>
+   <td style="padding-left: 10px; padding-right: 10px; vertical-align: top;"><p>August 2022</p></td>
 <td style="padding-left: 10px; padding-right: 10px;">
 		<p><i>Love and Sex in Digital World: Philosophy, Ethics and Theology</i> <a href="https://ut.ee/et/node/137447">link</a></p>
 	<p><ul>
@@ -52,11 +52,11 @@ layout: page
 	</ul>
 </p>
 	</td>
-   <td style="padding-left: 10px; padding-right: 10px;"><p>University of Tartu</p></td>
+   <td style="padding-left: 10px; padding-right: 10px; vertical-align: top;"><p>University of Tartu</p></td>
   </tr>
 
   <tr>
-    <td style="padding-left: 10px; padding-right: 10px;"><p>August 2022</p></td>
+    <td style="padding-left: 10px; padding-right: 10px; vertical-align: top;"><p>August 2022</p></td>
     <td>
 		<p><i>Social evil and historical responsibility in 2022 ("Социальное зло и историческая ответственность в 2022 году")</i> <a href="[https://www.inliberty.ru/schools-justice/](https://bazaleti.notion.site/2022-b8ba8404dc074cd9aba4f956d3753b42#174fc8375cbf4d609fbeed31ac981446)">link (Russian)</a></p>
 	<p><ul>
@@ -65,11 +65,11 @@ layout: page
 	</ul>
 </p>
 	</td>
-    <td style="padding-left: 10px; padding-right: 10px;"><p>Bazaleti University, Tsalka, Georgia</p></td>
+    <td style="padding-left: 10px; padding-right: 10px; vertical-align: top;"><p>Bazaleti University, Tsalka, Georgia</p></td>
   </tr>
   
    <tr>
-    <td style="padding-left: 10px; padding-right: 10px;"><p>Autumn 2022</p></td>
+    <td style="padding-left: 10px; padding-right: 10px; vertical-align: top;"><p>Autumn 2022</p></td>
    <td style="padding-left: 10px; padding-right: 10px;">
 		<p><i>Cybersex and Religion: Newest Challenges in Sexual Theology</i> <a href="https://ut.ee/et/node/137447">link</a></p>
 	<p><ul>
@@ -80,7 +80,7 @@ layout: page
 	</ul>
 </p>
 	</td>
-    <td style="padding-left: 10px; padding-right: 10px;"><p>University of Tartu</p></td>
+    <td style="padding-left: 10px; padding-right: 10px; vertical-align: top;"><p>University of Tartu</p></td>
   </tr>
 </table>
 
