@@ -5,22 +5,23 @@ layout: page
 
 <h2>Teaching</h2>
 
-<table  border="1" style="width: auto; border-collapse: collapse; border: none;
+<table style="width: auto; border-collapse: collapse; border: none;
     padding: 5px;">
+	
   <tr>
     <td><b>Year</b></td>
     <td><b>Name of the course</b></td>
     <td><b>Location</b></td>
   </tr>
+	
   <tr>
     <td>July 2020</td>
     <td>
 		<p><i>The Return of Ethics ("Возвращение этики")</i> <a href="https://www.inliberty.ru/ithink-ethics/">link (Russian)</a></p>
 	<p><ul>
-		<li>explained ethical theories to the group of students from different fields of knowledge through contemporary problematic cases, e.g., what kinds of new ethical problems the COVID-19 pandemic caused, how technologies are changing our moral interactions with each other, etc.
+		<li>explained ethical theories to the group of students from different fields of knowledge through contemporary problematic cases, e.g., what kinds of new ethical problems the COVID-19 pandemic caused, how technologies are changing our moral interactions with each other, etc.</li>
 		<li>taught and supervised using  Zoom: engaged in different <b>active-learning methods</b> and types of work (discussions, case studies, debates, games, etc.)</li>
-	</ul>
-</p>
+	</ul></p>
 	</td>
     <td>inLiberty School, online in Zoom</td>
   </tr>
@@ -30,7 +31,7 @@ layout: page
     <td>
 		<p><i>A Fair Society ("Справедливое общество")</i> <a href="https://www.inliberty.ru/schools-justice/">link (Russian)</a></p>
 	<p><ul>
-		<li>explained theories of justice to the group of students from different fields of knowledge through contemporary problematic cases, e.g., what contemporary political movements such as <i>MeToo</i> tell us about justice, etc.
+		<li>explained theories of justice to the group of students from different fields of knowledge through contemporary problematic cases, e.g., what contemporary political movements such as <i>MeToo</i> tell us about justice, etc.</li>
 		<li>taught and supervised using  Zoom: engaged in different <b>active-learning methods</b> and types of work (discussions, case studies, debates, games, etc.)</li>
 	</ul>
 </p>
@@ -60,7 +61,7 @@ layout: page
     <td>
 		<p><i>Social evil and historical responsibility in 2022 ("Социальное зло и историческая ответственность в 2022 году")</i> <a href="[https://www.inliberty.ru/schools-justice/](https://bazaleti.notion.site/2022-b8ba8404dc074cd9aba4f956d3753b42#174fc8375cbf4d609fbeed31ac981446)">link (Russian)</a></p>
 	<p><ul>
-		<li>explained the ethics of war and the just war theories to a group of students from different fields of knowledge.
+		<li>explained the ethics of war and the just war theories to a group of students from different fields of knowledge.</li>
 		<li>taught using different <b>active-learning methods</b> and types of work (discussions, case studies, debates, games, etc.)</li>
 	</ul>
 </p>
