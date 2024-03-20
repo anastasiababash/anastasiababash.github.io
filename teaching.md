@@ -5,18 +5,8 @@ layout: page
 
 <h2>Teaching</h2>
 
-<style>
-  table {
-    border-collapse: collapse;
-	   width: auto;
-  }
-  td {
-    border: none;
-    padding: 5px;
-  }
-</style>
-
-<table>
+<table  border="1" style="width: auto; border-collapse: collapse; border: none;
+    padding: 5px;">
   <tr>
     <td><b>Year</b></td>
     <td><b>Name of the course</b></td>
