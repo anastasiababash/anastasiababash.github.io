@@ -22,7 +22,7 @@ layout: page
                 <li>utilized a range of active learning methods, including discussions, case studies, debates, and interactive games, to enhance student participation and comprehension.</li>
 </ul>
 </div>
-<div style="text-align: center;"><p>University of Tartu, Estonia</p></div>
+<div style="text-align: center;"><p>University of Tartu, <br>Estonia</p></div>
 </div>
     <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center;"><p>August 2022</p></div>
