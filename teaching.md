@@ -12,7 +12,7 @@ layout: page
         <div style="text-align: center;"><b>Location</b></div>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
-        <div style="text-align: center;"><p>Autumn 2022</p></div>
+        <div style="text-align: center; flex: 1"><p>Autumn 2022</p></div>
         <div style="padding: 0 10px;">
             <p style="text-align: center;"><b>Cybersex and Religion: Newest Challenges in Sexual Theology</b><br><a href="https://ut.ee/et/node/137447">(description)</a></p>
             <ul style="text-align: left;">
@@ -22,10 +22,10 @@ layout: page
                 <li>utilized a range of active learning methods, including discussions, case studies, debates, and interactive games, to enhance student participation and comprehension.</li>
             </ul>
         </div>
-        <div style="text-align: center;"><p>University of Tartu, Estonia</p></div>
+        <div style="text-align: center; flex: 1;"><p>University of Tartu, Estonia</p></div>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
-        <div style="text-align: center;"><p>August 2022</p></div>
+        <div style="text-align: center; flex: 1;"><p>August 2022</p></div>
         <div style="padding: 0 10px;">
             <p style="text-align: center;"><b>Social Evil and Historical Responsibility in 2022</b> <br> <b>("Социальное зло и историческая ответственность в 2022 году")</b> <br> <a href="https://bazaleti.notion.site/2022-b8ba8404dc074cd9aba4f956d3753b42#174fc8375cbf4d609fbeed31ac981446">(description in Russian)</a></p>
             <ul style="text-align: left;">
@@ -36,7 +36,7 @@ layout: page
         <div style="text-align: center;"><p>Bazaleti University, Georgia</p></div>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
-        <div style="text-align: center;"><p>August 2022</p></div>
+        <div style="text-align: center; flex: 1;"><p>August 2022</p></div>
         <div style="padding: 0 10px;">
             <p style="text-align: center;"><b>Love and Sex in Digital World: Philosophy, Ethics, and Theology</b> <br> <a href="https://ut.ee/et/node/137447">(description)</a></p>
             <ul style="text-align: left;">
@@ -46,10 +46,10 @@ layout: page
                 <li>used different <b>active-learning methods</b> and types of work (discussions, case studies, debates, games, etc.)</li>
 </ul>
 </div>
-<div style="text-align: center;"><p>University of Tartu, Estonia</p></div>
+<div style="text-align: center; flex: 1;"><p>University of Tartu, Estonia</p></div>
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
-    <div style="text-align: center;"><p>April 2021</p></div>
+    <div style="text-align: center; flex: 1;"><p>April 2021</p></div>
     <div style="padding: 0 10px;">
         <p style="text-align: center;"><b>A Fair Society ("Справедливое Общество")</b> <br> <a href="https://www.inliberty.ru/schools-justice/">(description in Russian)</a></p>
         <ul style="text-align: left;">
@@ -57,10 +57,10 @@ layout: page
             <li>leveraged <i>Zoom</i> as a teaching platform to facilitate interactive learning experiences, employing a variety of active-learning methodologies, including discussions, case studies, debates, and educational games to promote deeper engagement and understanding among students.</li>
         </ul>
     </div>
-    <div style="text-align: center;"><p>inLiberty School, online</p></div>
+    <div style="text-align: center; flex: 1;"><p>inLiberty School, online</p></div>
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
-    <div style="text-align: center;"><p>July 2020</p></div>
+    <div style="text-align: center; flex: 1;"><p>July 2020</p></div>
     <div style="padding: 0 10px;">
         <p style="text-align: center;"><b>The Return of Ethics ("Возвращение Этики")</b><br><a href="https://www.inliberty.ru/ithink-ethics/">(description in Russian)</a></p>
         <ul style="text-align: left;">
@@ -68,6 +68,6 @@ layout: page
             <li>utilized <i>Zoom</i> as a teaching platform to deliver interactive and engaging sessions, implementing various active-learning techniques, including facilitated discussions, case analyses, debates, and interactive games to foster comprehensive understanding and critical thinking among students.</li>
         </ul>
     </div>
-    <div style="text-align: center;"><p>inLiberty School, online</p></div>
+    <div style="text-align: center; flex: 1;"><p>inLiberty School, online</p></div>
 </div>
 </div>
