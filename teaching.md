@@ -15,7 +15,7 @@ layout: page
     <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center; flex: 1;"><p>July 2020</p></div>
         <div style="padding: 0 10px;">
-            <p><b>The Return of Ethics ("Возвращение Этики")</b> <a href="https://www.inliberty.ru/ithink-ethics/">(description in Russian)</a></p>
+            <p style="text-align: center;"><b>The Return of Ethics ("Возвращение Этики")</b> <a href="https://www.inliberty.ru/ithink-ethics/">(description in Russian)</a></p>
             <p>
                 <ul>
                     <li>explained ethical theories to students from different fields of knowledge through contemporary problematic cases, e.g., what kinds of new ethical problems the COVID-19 pandemic caused, how technologies are changing our moral interactions with each other, etc.</li>
