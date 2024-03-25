@@ -13,7 +13,7 @@ layout: page
     </div>
 
     <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
-        <div style="padding: 0 10px;"><p>July 2020</p></div>
+        <div style="text-align: center; flex: 1;"><p>July 2020</p></div>
         <div style="padding: 0 10px;">
             <p><b>The Return of Ethics ("Возвращение Этики")</b> <a href="https://www.inliberty.ru/ithink-ethics/">(description in Russian)</a></p>
             <p>
@@ -23,8 +23,11 @@ layout: page
                 </ul>
             </p>
         </div>
-        <div style="padding: 0 10px;"><p>inLiberty School, online</p></div>
-    </div> 
+        <div style="text-align: center; flex: 1;"><p>inLiberty School, online</p></div>
+    </div>
+
+    <!-- Вставьте сюда остальные элементы данных -->
+
 </div>
 
 
