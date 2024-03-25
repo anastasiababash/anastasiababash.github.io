@@ -65,4 +65,4 @@ layout: page
     </div>
     
     <div style="padding: 5px 10px; border-bottom: 1px solid black;">
-        <div style="text-align: center;"><p>July 2020</p></div
+        <div style="text-align: center;"><p>July 2020</p></div>
