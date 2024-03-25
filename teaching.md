@@ -75,13 +75,14 @@ layout: page
         <div style="text-align: center; flex: 1;"><p>Autumn 2022</p></div>
         <div style="padding: 0 10px;">
             <p style="text-align: center;"><b>Cybersex and Religion: Newest Challenges in Sexual Theology</b><br><a href="https://ut.ee/et/node/137447">(description)</a></p>
+            <p>
                 <ul>
                     <li>designed and developed a one-semester curriculum <a href="https://drive.google.com/file/d/1lBmRxsH46rFjLhsKWp0Xq92KIvetE1_x/view?usp=sharing">(link to the program)</a></li>
             <li>provided an in-depth overview of contemporary philosophical and theological discussions concerning cyberlove and cybersex.</li>
             <li>explored various moral dilemmas arising from the transformative impact of digital technologies on sexual relationships.</li>
             <li>utilized a range of active learning methods, including discussions, case studies, debates, and interactive games, to enhance student participation and comprehension.</li>
                 </ul>
-            </p>
+        </p>
         </div>
         <div style="text-align: center; flex: 1;"><p>University of Tartu, Estonia</p></div>
     </div>
