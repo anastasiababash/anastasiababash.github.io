@@ -8,9 +8,9 @@ layout: page
 <table style="width: auto; border-collapse: collapse; border: none;">
 	
   <tr>
-    <td style="padding-left: 10px; padding-right: 10px;"><center><b>Time</b></center>/td>
-    <td style="padding-left: 10px; padding-right: 10px;"><center><b>Name of the course</b></center>/td>
-    <td style="padding-left: 10px; padding-right: 10px;"><center><b>Location</b></center></td>
+    <td align="center" style="padding-left: 10px; padding-right: 10px;"><b>Time</b></td>
+    <td align="center" style="padding-left: 10px; padding-right: 10px;"><b>Name of the course</b></td>
+    <td align="center" style="padding-left: 10px; padding-right: 10px;"><b>Location</b></td>
   </tr>
 	
   <tr>
