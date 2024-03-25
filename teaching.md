@@ -17,12 +17,15 @@ layout: page
         <div style="text-align: center; flex: 1;"><p>July 2020</p></div>
         <div style="padding: 0 10px;">
             <p style="text-align: center;"><b>The Return of Ethics ("Возвращение Этики")</b> <a href="https://www.inliberty.ru/ithink-ethics/">(description in Russian)</a></p>
-            <p>
-                <ul>
-                    <li>explained ethical theories to students from different fields of knowledge through contemporary problematic cases, e.g., what kinds of new ethical problems the COVID-19 pandemic caused, how technologies are changing our moral interactions with each other, etc.</li>
-                    <li>utilized <i>Zoom</i> as a teaching platform to deliver interactive and engaging sessions, implementing various active-learning techniques, including facilitated discussions, case analyses, debates, and interactive games to foster comprehensive understanding and critical thinking among students.</li>
-                </ul>
-            </p>
+
+   <p style="text-align: center;"><a href="#expandableList">read more</a></p>
+
+<p id="expandableList" class="hidden">
+  <ul>
+    <li>explained ethical theories to students from different fields of knowledge through contemporary problematic cases, e.g., what kinds of new ethical problems the COVID-19 pandemic caused, how technologies are changing our moral interactions with each other, etc.</li>
+    <li>utilized <i>Zoom</i> as a teaching platform to deliver interactive and engaging sessions, implementing various active-learning techniques, including facilitated discussions, case analyses, debates, and interactive games to foster comprehensive understanding and critical thinking among students.</li>
+  </ul>
+</p>
         </div>
         <div style="text-align: center; flex: 1;"><p>inLiberty School, online</p></div>
     </div>
