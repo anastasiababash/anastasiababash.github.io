@@ -16,7 +16,7 @@ layout: page
         <div style="padding: 0 10px;">
             <p style="text-align: center;"><b>Cybersex and Religion: Newest Challenges in Sexual Theology</b><br><a href="https://ut.ee/et/node/137447">(description)</a></p>
             <ul style="text-align: left;">
-                <li>designed and developed a one-semester curriculum <a href="https://drive.google.com/file/d/1lBmRxsH46rFjLhsKWp0Xq92KIvetE1_x/view?usp=sharing">(link to the program)</a></li>
+                <li>designed and developed a one-semester curriculum <a href="https://drive.google.com/file/d/1lBmRxsH46rFjLhsKWp0Xq92KIvetE1_x/view?usp=sharing">(link to the program)</a>.</li>
                 <li>provided an in-depth overview of contemporary philosophical and theological discussions concerning cyberlove and cybersex.</li>
                 <li>explored various moral dilemmas arising from the transformative impact of digital technologies on sexual relationships.</li>
                 <li>utilized a range of active learning methods, including discussions, case studies, debates, and interactive games, to enhance student participation and comprehension.</li>
@@ -41,7 +41,7 @@ layout: page
             <p style="text-align: center;"><b>Love and Sex in Digital World: Philosophy, Ethics, and Theology</b> <br> <a href="https://ut.ee/et/node/137447">(description)</a></p>
             <ul style="text-align: left;">
                 <li>led the coordination of a summer school program, overseeing all aspects from conceptualization to implementation.</li>
-                <li>designed and curated a dynamic one-week curriculum focusing on diverse aspects of the philosophy, theology, and ethics of love, sex, and technology, featuring contributions from guest lecturers from the University of Tartu, the University of Copenhagen, and the University of Helsinki. <a href="https://drive.google.com/file/d/1EkvTOpuWoX5ZbV2ho9Y7LOBohT87Bjq5/view?usp=sharing">(link to the program)</a></li>
+                <li>designed and curated a dynamic one-week curriculum focusing on diverse aspects of the philosophy, theology, and ethics of love, sex, and technology, featuring contributions from guest lecturers from the University of Tartu, the University of Copenhagen, and the University of Helsinki <a href="https://drive.google.com/file/d/1EkvTOpuWoX5ZbV2ho9Y7LOBohT87Bjq5/view?usp=sharing">(link to the program)</a>.</li>
                 <li>employed a variety of interactive teaching methodologies, including discussions, case studies, debates, and educational games, to foster active engagement and deep understanding among participants.</li>
                 <li>used different <b>active-learning methods</b> and types of work (discussions, case studies, debates, games, etc.)</li>
 </ul>
