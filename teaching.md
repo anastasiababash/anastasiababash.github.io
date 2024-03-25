@@ -16,7 +16,7 @@ layout: page
     <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center; flex: 1;"><p>July 2020</p></div>
         <div style="padding: 0 10px;">
-            <p style="text-align: center;"><b>The Return of Ethics ("Возвращение Этики")</b> <a href="https://www.inliberty.ru/ithink-ethics/">(description in Russian)</a></p>
+            <p style="text-align: center;"><b>The Return of Ethics ("Возвращение Этики")</b><br><a href="https://www.inliberty.ru/ithink-ethics/">(description in Russian)</a></p>
             <p>
                 <ul>
                     <li>explained ethical theories to students from different fields of knowledge through contemporary problematic cases, e.g., what kinds of new ethical problems the COVID-19 pandemic caused, how technologies are changing our moral interactions with each other, etc.</li>
@@ -30,7 +30,7 @@ layout: page
     <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center; flex: 1;"><p>April 2021</p></div>
         <div style="padding: 0 10px;">
-            <p style="text-align: center;"><b>A Fair Society ("Справедливое Общество")</b> <a href="https://www.inliberty.ru/schools-justice/">(description in Russian)</a></p>
+            <p style="text-align: center;"><b>A Fair Society ("Справедливое Общество")</b> <br> <a href="https://www.inliberty.ru/schools-justice/">(description in Russian)</a></p>
             <p>
                 <ul>
                     <li>explained theories of justice to students across diverse academic backgrounds using relevant contemporary case studies, such as movements like <i>MeToo</i> or <i>BlackLivesMatter</i>.</li>
@@ -44,7 +44,7 @@ layout: page
     <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center; flex: 1;"><p>August 2022</p></div>
         <div style="padding: 0 10px;">
-            <p style="text-align: center;"><b>Love and Sex in Digital World: Philosophy, Ethics, and Theology</b> <a href="https://ut.ee/et/node/137447">(description)</a></p>
+            <p style="text-align: center;"><b>Love and Sex in Digital World: Philosophy, Ethics, and Theology</b> <br> <a href="https://ut.ee/et/node/137447">(description)</a></p>
             <p>
                 <ul>
                     <li>led the coordination of a summer school program, overseeing all aspects from conceptualization to implementation.</li>
@@ -60,7 +60,7 @@ layout: page
     <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center; flex: 1;"><p>August 2022</p></div>
         <div style="padding: 0 10px;">
-            <p style="text-align: center;"><b>Social Evil and Historical Responsibility in 2022 ("Социальное зло и историческая ответственность в 2022 году")</b> <a href="https://bazaleti.notion.site/2022-b8ba8404dc074cd9aba4f956d3753b42#174fc8375cbf4d609fbeed31ac981446">(description in Russian)</a></p>
+            <p style="text-align: center;"><b>Social Evil and Historical Responsibility in 2022 ("Социальное зло и историческая ответственность в 2022 году")</b> <br> <a href="https://bazaleti.notion.site/2022-b8ba8404dc074cd9aba4f956d3753b42#174fc8375cbf4d609fbeed31ac981446">(description in Russian)</a></p>
             <p>
                 <ul>
                     <li>instructed students from various academic disciplines on the feminist ethics of war and just war theories.</li>
@@ -74,7 +74,7 @@ layout: page
     <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center; flex: 1;"><p>Autumn 2022</p></div>
         <div style="padding: 0 10px;">
-            <p style="text-align: center;"><b>Cybersex and Religion: Newest Challenges in Sexual Theology</b> <a href="https://ut.ee/et/node/137447">(description)</a></p>
+            <p style="text-align: center;"><b>Cybersex and Religion: Newest Challenges in Sexual Theology</b> <be> <a href="https://ut.ee/et/node/137447">(description)</a></p>
             <p>
                 <ul>
                    <li>designed and developed a one-semester curriculum <a href="https://drive.google.com/file/d/1lBmRxsH46rFjLhsKWp0Xq92KIvetE1_x/view?usp=sharing">(link to the program)</a></li>
