@@ -5,14 +5,12 @@ layout: page
 
 <h2>Teaching</h2>
 
-<div style="border: none;">
-    
+<div style="border: none;">  
     <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center;"><b>Time</b></div>
         <div style="text-align: center;"><b>Name of the course</b></div>
         <div style="text-align: center;"><b>Location</b></div>
     </div>
-
     <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center;"><p>Autumn 2022</p></div>
         <div style="padding: 0 10px;">
@@ -26,7 +24,6 @@ layout: page
         </div>
         <div style="text-align: center;"><p>University of Tartu, Estonia</p></div>
     </div>
-
     <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center;"><p>August 2022</p></div>
         <div style="padding: 0 10px;">
@@ -38,7 +35,6 @@ layout: page
         </div>
         <div style="text-align: center;"><p>Bazaleti University, Georgia</p></div>
     </div>
-
     <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center;"><p>August 2022</p></div>
         <div style="padding: 0 10px;">
@@ -52,7 +48,6 @@ layout: page
 </div>
 <div style="text-align: center;"><p>University of Tartu, Estonia</p></div>
 </div>
-
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
     <div style="text-align: center;"><p>April 2021</p></div>
     <div style="padding: 0 10px;">
@@ -64,7 +59,6 @@ layout: page
     </div>
     <div style="text-align: center;"><p>inLiberty School, online</p></div>
 </div>
-
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
     <div style="text-align: center;"><p>July 2020</p></div>
     <div style="padding: 0 10px;">
@@ -76,6 +70,4 @@ layout: page
     </div>
     <div style="text-align: center;"><p>inLiberty School, online</p></div>
 </div>
-
 </div>
-
