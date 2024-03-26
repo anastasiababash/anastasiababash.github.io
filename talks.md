@@ -5,7 +5,7 @@ layout: page
 
 <h2>Conference and Workshop Presentations, Public Lectures</h2>
 <ul>
-<li></li><table style="border-collapse: collapse; width: 100%;">
+<li><table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>"I Date a ChatBot": Exploring Discrimination in Love and Sex with AI</b></h4> (invited)</td>
   </tr>
