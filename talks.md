@@ -25,7 +25,7 @@ Since using chatbots, AI has shown racist, sexist, and discriminatory behavior, 
 <p>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Ukrainian feminists about the war: nationalism, the fight against colonialism and personal experience (invited)</b></h4>(Украинские феминистки про войну: национализм, борьба с колониализмом и личный опыт) (<a href="https://youtu.be/y7vTZzGf-Ws?si=HwFUl4AJrJoeZIFN">watch on youtube (in Russian)</a>)</td>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Ukrainian feminists about the war: nationalism, the fight against colonialism and personal experience (invited)</b></h4><p>(Украинские феминистки про войну: национализм, борьба с колониализмом и личный опыт) (<a href="https://youtu.be/y7vTZzGf-Ws?si=HwFUl4AJrJoeZIFN">watch on youtube (in Russian)</a>)</p></td>
   </tr>
   <tr>
     <td style="border: none; padding: 0 5px 0 0; text-align: left;">20 May 2023</td>
@@ -42,7 +42,7 @@ Since using chatbots, AI has shown racist, sexist, and discriminatory behavior, 
 <p>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>"I Date a ChatBot": Exploring Discrimination in Love and Sex with AI (invited)</b></h4></td>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Between gender equality and religion: the pious Baltic Muslim women’s quest for ‘true’ Islam (invited)</b></h4></td>
   </tr>
   <tr>
     <td style="border: none; padding: 0; text-align: left;">5-6 September 2023</td>
