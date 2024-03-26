@@ -4,11 +4,17 @@ layout: page
 ---
 
 <h2>Conference and Workshop Presentations, Public Lectures</h2>
-
-<h3><b>"I Date a ChatBot": Exploring Discrimination in Love and Sex with AI</b></h3>
-5-6 September 2023
-Workshop on Discrimination in Dating, Aarhus University, Denmark
-
+<br>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 8px; text-align: left;" colspan="2"><h4><b>"I Date a ChatBot": Exploring Discrimination in Love and Sex with AI</b></h4></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 8px; text-align: left;">5-6 September 2023</td>
+    <td style="border: none; padding: 8px; text-align: left;">Workshop on Discrimination in Dating, Aarhus University, Denmark</td>
+  </tr>
+</table>
+<br>
 <details>
   <summary>Abstract</summary>
   <p>The fast development and expansion of AI chatbots, such as the most discussed one nowadays, ChatGTP, has already affected the romantic and sexual sphere, and their influence will only rise in the future. This paper broadly explores discrimination in romantic and sexual relationships with AI: whether and how romantic and sexual relationships with chatbots, robots, and other artificial partners can diminish or enhance discrimination.
@@ -16,12 +22,3 @@ Since using chatbots, AI has shown racist, sexist, and discriminatory behavior, 
 </p>
 </details>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;" colspan="2">Ячейка 1</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Ячейка 2</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Ячейка 3</td>
-  </tr>
-</table>
