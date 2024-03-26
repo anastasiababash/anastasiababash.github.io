@@ -30,3 +30,9 @@ layout: page
     }
   }
 </script>
+
+
+<details>
+  <summary>Легенда</summary>
+  <p>Раскрывающийся текст</p>
+</details>
