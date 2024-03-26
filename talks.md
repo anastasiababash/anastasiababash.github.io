@@ -10,8 +10,8 @@ layout: page
     <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>"I Date a ChatBot": Exploring Discrimination in Love and Sex with AI (invited)</b></h4></td>
   </tr>
   <tr>
-    <td style="border: none; padding: 0 5px; text-align: left;">5-6 September 2023</td>
-    <td style="border: none; padding: 0; text-align: left;"><i>Workshop on Discrimination in Dating</i>, Aarhus University, Denmark</td>
+    <td style="border: none; padding: 0; text-align: left;">5-6 September 2023</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>Workshop on Discrimination in Dating</i>, Aarhus University, Denmark</td>
   </tr>
 </table>
 <p><details>
@@ -22,7 +22,7 @@ Since using chatbots, AI has shown racist, sexist, and discriminatory behavior, 
 </details>
 </p>
 
-<br>
+<p>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>"I Date a ChatBot": Exploring Discrimination in Love and Sex with AI (invited)</b></h4></td>
