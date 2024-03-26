@@ -16,8 +16,12 @@ Since using chatbots, AI has shown racist, sexist, and discriminatory behavior, 
 </p>
 </details>
 
-<div class="container" style="display: flex; flex-direction: column; align-items: center;">
-  <div class="cell" style="border: 1px solid black; padding: 8px; text-align: center;">Строка 1</div>
-  <div class="cell" style="border: 1px solid black; padding: 8px; text-align: center;">Строка 2</div>
-  <div class="cell" style="border: 1px solid black; padding: 8px; text-align: center;">Строка 3</div>
-</div>
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Ячейка 1</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Ячейка 2</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Ячейка 3</td>
+  </tr>
+</table>
