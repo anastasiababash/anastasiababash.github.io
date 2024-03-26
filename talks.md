@@ -257,7 +257,7 @@ You will also learn a little more about the philosophy and ethics of sex.</p>
 <hr>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>15 minutes about cybersex</b></h4><p><a href="[https://youtu.be/y7vTZzGf-Ws?si=HwFUl4AJrJoeZIFN](https://youtu.be/V3ApEP55LZU?si=_rs7rhDoDATyimUa)">watch on youtube</a></p></td>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>15 minutes about Cybersex</b></h4><p><a href="https://youtu.be/V3ApEP55LZU?si=_rs7rhDoDATyimUa">watch on youtube</a></p></td>
   </tr>
   <tr>
     <td style="border: none; padding: 0; text-align: left;"> 28 March 2018</td>
