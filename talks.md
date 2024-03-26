@@ -16,19 +16,8 @@ Since using chatbots, AI has shown racist, sexist, and discriminatory behavior, 
 </p>
 </details>
 
-<div class="table-container" style="display: flex; flex-direction: column;">
-  <div class="table-row" style="display: flex;">
-    <div class="table-cell overlap" style="border: 1px solid black; padding: 8px; text-align: center; position: relative; flex: 1;">
-      <div class="top" style="position: absolute; top: -1px; left: 0; width: 100%; background-color: #f0f0f0; z-index: 1;">Первая ячейка</div>
-      <div>Вторая строка</div>
-      <div>Третья строка</div>
-    </div>
-    <div class="table-cell" style="border: 1px solid black; padding: 8px; text-align: center;">Данные 1</div>
-    <div class="table-cell" style="border: 1px solid black; padding: 8px; text-align: center;">Данные 2</div>
-  </div>
-  <div class="table-row" style="display: flex;">
-    <div class="table-cell" style="border: 1px solid black; padding: 8px; text-align: center;">Данные 3</div>
-    <div class="table-cell" style="border: 1px solid black; padding: 8px; text-align: center;">Данные 4</div>
-    <div class="table-cell" style="border: 1px solid black; padding: 8px; text-align: center;">Данные 5</div>
-  </div>
+<div class="container" style="display: flex; flex-direction: column; align-items: center;">
+  <div class="cell" style="border: 1px solid black; padding: 8px; text-align: center;">Строка 1</div>
+  <div class="cell" style="border: 1px solid black; padding: 8px; text-align: center;">Строка 2</div>
+  <div class="cell" style="border: 1px solid black; padding: 8px; text-align: center;">Строка 3</div>
 </div>
