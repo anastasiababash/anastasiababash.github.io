@@ -14,7 +14,6 @@ layout: page
     <td style="border: none; padding: 0px; text-align: left;"><i>Workshop on Discrimination in Dating</i>, Aarhus University, Denmark</td>
   </tr>
 </table>
-<br>
 <details>
   <summary>Abstract</summary>
   <p>The fast development and expansion of AI chatbots, such as the most discussed one nowadays, ChatGTP, has already affected the romantic and sexual sphere, and their influence will only rise in the future. This paper broadly explores discrimination in romantic and sexual relationships with AI: whether and how romantic and sexual relationships with chatbots, robots, and other artificial partners can diminish or enhance discrimination.
@@ -22,5 +21,4 @@ Since using chatbots, AI has shown racist, sexist, and discriminatory behavior, 
 </p>
 </details>
 
-</ul>
 
