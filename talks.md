@@ -197,7 +197,7 @@ as a challenge to the religious-secular binary</b></h4></td>
   <tr>
     <td style="border: none; padding: 0; text-align: left;"> 25 June - 29 June 2019</td>
     <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>Feminism and Religion in modern world: are there
-any way for reconciliation?</i>, European Association for the Study of Religions (EASR), University of Tartu, Estonia/td>
+any way for reconciliation?</i>, European Association for the Study of Religions (EASR), University of Tartu, Estonia</td>
   </tr>
 </table>
 <p><details>
@@ -212,7 +212,7 @@ any way for reconciliation?</i>, European Association for the Study of Religions
   </tr>
   <tr>
     <td style="border: none; padding: 0; text-align: left;"> 2 May 2019</td>
-    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tallinn</i>, Estonia/td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tallinn</i>, Estonia</td>
   </tr>
 </table>
 <p><details>
@@ -231,7 +231,7 @@ You will also learn a little more about the philosophy and ethics of sex.</p>
   </tr>
   <tr>
     <td style="border: none; padding: 0; text-align: left;"> 4 December 2018</td>
-    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tartu</i>, Estonia/td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tartu</i>, Estonia</td>
   </tr>
 </table>
 <p><details>
@@ -246,7 +246,7 @@ You will also learn a little more about the philosophy and ethics of sex.</p>
   </tr>
   <tr>
     <td style="border: none; padding: 0; text-align: left;"> 3 October 2018</td>
-    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tartu</i>, Estonia/td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tartu</i>, Estonia</td>
   </tr>
 </table>
 <p><details>
@@ -261,7 +261,7 @@ You will also learn a little more about the philosophy and ethics of sex.</p>
   </tr>
   <tr>
     <td style="border: none; padding: 0; text-align: left;"> 28 March 2018</td>
-    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tartu</i>, Estonia/td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tartu</i>, Estonia</td>
   </tr>
 </table>
 <p><details>
@@ -273,4 +273,3 @@ You will also learn a little more about the philosophy and ethics of sex.</p>
 You will also learn a little more about the philosophy and ethics of sex.</p>
 </details>
 </p>
-<hr>
