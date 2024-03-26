@@ -106,3 +106,53 @@ on the refugees (1943), the broken identity, the desire to completely vanish fro
 </details>
 </p>
 <hr>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Religious feminism online 
+as a challenge to the religious-secular binary</b></h4></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;"> 27 June - 1 July 2022</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>Gender emancipation within and outside religion: accepting or contesting the religious-secular binary</i>, European Association for the Study of Religions (EASR), University College Cork, Ireland</td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>The fourth-wave feminism is distinguished by its increased use of digital technologies (Cochrane, 2013): various hashtag movements (e.g. #MeToo), the quick growth of online communities, and an active engagement in social media between women with different backgrounds have benefited gender emancipation. Parallelly, theologians have noticed the so-called “Digital Reformation” (Drescher, 2012) and, thus, described different ways ordinary believers share spiritual practices online and how religious institutions adapt to the digital revolution. This talk will analyze both these processes by focusing on religious feminist online communities (e.g. Feminism and Religion blog, WATER community, the LDS women project, etc.) as a possible way to contest the religious-secular binary.
+Particularly, I will argue that both secular and religious feminist online communities are sharing much more similarities than differences: they both promote inclusivity and “makes allowance for different identities within a single person” (Heywood, 2006). They give a voice to different women and the possibility to group and discuss in a safe online environment. They also promote education and women's autonomy. Despite the fact that digital technologies create “social bubbles” and, as a result, could make harder a dialogue between religious and secular feminists who could be stuck in their circles, the quick learning from each other and adaptation of tools (e.g. #ChurchToo as a continuation of #MeToo movement) benefits both parties and enhances dialogue. Clearly, there is a need for further more engagement between secular and religious feminists, but I do believe that online communities could be a possible platform in which the opposition between religious and secular will be diminished and, thus, they need more attention from the scholars and feminist activists.</p>
+</details>
+</p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Women’s liberation through literature and press: 
+Nataliya Kobrynska as the first Ukrainian feminist</b></h4></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;"> 25-26 February 2022</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>New Voices Conference</i>, Center for the History of Women Philosophers and Scientists, Paderborn University, Germany</td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>My presentation will discuss the life and works of the first Ukrainian feminist writer and activist, Nataliya Kobrynska (1855-1920). Particularly, I will focus on her original idea that literature and organization of the free press oriented on female audiences was the most important task for Ukrainian women's liberation at the end of the 19th century due to the specific condition in which Ukrainian women (mostly, peasants) turned out to be. Following her beliefs, Kobrynska organized the first association of Ukrainian women (called <i>Tovarystvo Rus'kykh Zhinok</i>) in 1884, the main goal of which was to “develop the female spirit through literature because literature was a comprehensive image of the good and bad sides of the social order, its needs, and shortcomings”. She was herself a literature writer who described the women’s position in society (e.g. "Shuminska" (also known as <i>The Spirit of the Times</i>), “For a Piece of Bread”).  Together with her friend Olena Pchilka, she also published the first almanac for women <i>Pershy vinok</i> (The First Garland, 1887), which was a collection of literary and political works. Later, she organized a publishing house <i>Zhinocha Sprava</i> (Women’s Cause) and edited the other three issues of a female almanac named Nasha dolya (Our Fate 1893, 1895, 1896). She was convinced that almanacs oriented on women would raise women’s consciousness and, thus, help them fight their subjugated position in society. In her essays, Kobrynska also emphasized the educational rights of women, as well as the importance of developing patriotism. She believed that women should understand their origin - this helps them better fight against inequalities in their specific situation. She also argued with Clara Zetkin, claiming that socialism will not automatically lead to women's liberation. Even though she supported workers' rights, she believed that women must go their own separate ways. 
+</p>
+</details>
+</p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>The perfect one: should we allow technologies to find our soulmates?</b></h4></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">9-10 December 2021</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>Budapest Workshop on Philosophy and Technology</i>, Budapest University of Technology and Economics, Hungary</td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>The idea of soulmates traces back to antiquity: in Plato’s <i>Symposium</i>, Aristophanes tells the myth of androgynes who angered the gods, so Zeus cut each person in two and since that, they are condemned to seek the “other half” to complete themselves. This ancient story can be found in different variations through cultures and time. Unsurprisingly, this narrative is exploited by contemporary technologies (e.g. Tinder, OkCupid, eHarmony, etc.) that promise help in finding a “perfect match”. However, only in fiction this dream becomes fully true: recently, popular television shows started to explore the near future in which advanced technologies are able to find you a soulmate (e.g. Hang the DJ episode (2017) of Black Mirror, Soulmates (2020), The One (2021), etc).</p><p>In my presentation, I want to have a close look at Soulmates, an American science fiction television anthology series, the main theme of which is the imagined technology developed by the company Soul Connex that can determine your soulmate with 100% accuracy. Besides the discussions of the very possibility of creating such technology, I believe that the world presented in Soulmates is an interesting “thought experiment” that specifically shows what role choice and perfection play in the value of love and that there are areas where we do not want algorithms to make choices for us. Contemporary dating apps create a “paradox of choice” (Schwartz, 2004), making us doubt whether our partner is a perfect match and even leading to a rejection mindset (Pronk, Denissen, 2019), so we desire certainty. The Soul Connex test provides it: you know who your soulmate is, and there is no need to seek them anymore. Interestingly, the TV show clearly states this certainty does not guarantee happiness. On the contrary, it creates even more problems: the soulmate-ness of someone compared to other persons is unlikely to make you happier (episode 1). Moreover, your soulmate could die before you meet (episode 5) or turn out to be a morally bad person (episode 6). In episode 4 the main character even makes a conscious choice to build a relationship with his not-soulmate, thus fighting against the determinism of technologies. Soulmates is also arguing with Aristophanes’ myth itself. Episode 3 researches poly-romantic relationships, proving that the idea of the one does not fit all people. The whole television series is riddled with the narrative that the feeling of love makes someone perfect for us, but not the person herself. All television series on this topic teach us to give up the idea of soulmates, but dating apps are still attractive to people partially because of this idea and partially because they use this narrative in their ads (even though it is questionable and also not profitable to make it real). That is why I do believe that we should discuss more why the idea of soulmates is so desirable for us. 
+  </p>
+</details>
+</p>
+<hr>
