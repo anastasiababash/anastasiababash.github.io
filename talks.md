@@ -11,7 +11,7 @@ layout: page
   </tr>
   <tr>
     <td style="border: none; padding: 0 5px; text-align: left;">5-6 September 2023</td>
-    <td style="border: none; padding: 0 5px; text-align: left;"><i>Workshop on Discrimination in Dating</i>, Aarhus University, Denmark</td>
+    <td style="border: none; padding: 0; text-align: left;"><i>Workshop on Discrimination in Dating</i>, Aarhus University, Denmark</td>
   </tr>
 </table>
 <p><details>
