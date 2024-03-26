@@ -243,7 +243,7 @@ You will also learn a little more about the philosophy and ethics of sex.</p>
 <hr>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>15 minutes about Sex Work</b></h4><p>(co-talk with Anastasiia Popova</p></td>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>15 minutes about Sex Work</b></h4><p>(presenting together with Anastasiia Popova)</p></td>
   </tr>
   <tr>
     <td style="border: none; padding: 0; text-align: left;"> 4 December 2018</td>
@@ -252,7 +252,7 @@ You will also learn a little more about the philosophy and ethics of sex.</p>
 </table>
 <p><details>
   <summary>Abstract</summary>
-  <p>In our public lecture, I speak about what philosophers and feminists say about sex work, while my colleague, Anastasiia, explains this topic from sociological perspective</p>
+  <p>In our public lecture, I speak about what philosophers and feminists say about sex work, while my colleague, Anastasiia, explains this topic from a sociological perspective</p>
 </details>
 </p>
 <hr>
