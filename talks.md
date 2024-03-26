@@ -156,3 +156,121 @@ Nataliya Kobrynska as the first Ukrainian feminist</b></h4></td>
 </details>
 </p>
 <hr>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Transcendence through cyberrelationships</b></h4></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">28-29 October 2021</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>Symbolizing Transcendence: the limits of language</i>, The Nordic Society for Philosophy of Religion (NSPR), University of Tartu, Estonia</td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>In her paper “Transcendental Relationships? A Theological Reflection on Cybersex and Cyber-relationships” (2009), theologian Stefanie Knauss argued that there are at least four aspects of cybersex that can enrich our understanding of transcendence: a) the imaginative nature of cybersex, b) the bigger role of the mind compared to the role of the body, c) the different understanding of time and space in cyberworld, and d) the playful component of cybersex. However, twelve years have passed since she did her research and during this period, technologies have developed enormously, as well as our everyday usage of them. I would like to start my presentation by discussing how those four aspects proposed by Knauss can be addressed and nuanced in the contemporary world.
+Moreover, I would like to pay attention to the fact that during the last decade, the Internet and technologies have become highly integrated into our everyday lives: there is no more online/offline time (at least in the Western world) - we are connected 24/7, as well as technologies penetrate all spheres of our lives (this can be considered as the way how technologies symbolize transcendence). The COVID pandemic has intensified this even more. Clearly, such pervasion of technologies has changed dramatically the ways we find romantic and sexual partners, as well as the way we fall in love and have sex. However, cyberrelationships have a dual nature: on the one hand, they approach transcendence by giving us more choices (it is much easier than even before to meet a person from a different continent or a person with very specific interests) and more possibilities (you can text, call, see, play through technologies), but on the other hand, technologies disconnect us from each other (create “social bubbles”, make the distinction us/them worse, etc.). I believe that the ways to decrease the negative effects of technology and especially how they influence our relationships could be found in accepting our need for transcendence. Specifically, I argue that our technological progress (especially in technologies that enhance our ways of communication) is driven by our desire to be connected and, thus, be in some way transcendent. I believe that in order to decrease the negative effects, we need to make this more clear.
+  </p>
+</details>
+</p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>What is the possible feminist approach to the meaning in life?</b></h4></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">7-9 October 2019</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>2nd International Conference on Philosophy and Meaning in Life</i>, Waseda University, Tokyo, Japan</td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>As Martha Nussbaum claimed in her interview, "all feminist theory in the sense is about this question [meaning of life - author's note] because it is started with women who woke up and saw that their lives have been programmed for them by men" (URL: https://youtu.be/dK1IQr6pA7w). In other words, feminist philosophy has started with the question "What is a meaningful life?" and, particularly, "What is a meaningful life for me as a woman?". The answer to it has led to the liberation of women and the political actions taken for the promotion of gender equality that we experience nowadays. However, feminist philosophers have not paid much attention to the question. There is only one book in the field of philosophy of life (Sharp, Hasana; Taylor, Chloë (eds) (2016). Feminist philosophies of life. McGill-Queen's University Press) and only several papers (e.g. Webber, Jonathan (2018). Beauvoir and the Meaning of Life. In The Meaning of Life and the Great Philosophers (eds. Leach and Tartaglia) Routledge) directly addressing this question. I do believe that this situation must be changed, and the feminist approach could bring some interesting contributions that will enrich both feminist philosophy and the philosophy of life. </p><p>In my paper, I will try to analyze how the feminist view on the meaning of life can raise such interesting questions as "Does the meaning of life is gender-specific?". Firstly, I want to discuss how three different philosophical approaches could answer this question: supernaturalism, subjectivism, and objectivism (Metz, Thaddeus (2013). Meaning in Life, Oxford University Press). Secondly, I will analyze why it is so important who is the constructor of the meaning of life and why, if we want to achieve gender equality, the question of the meaning of life must be discussed not only by male philosophers but also by women and what have already some female philosophers have said on this topic (e.g. Beauvoir, Arendt, Nussbaum). Thirdly, I want to discuss how the concept of "the dignity of the body" proposed by Masahiro Morioka (Morioka, Masahiro (2001). Life Studies Approaches to Bioethics: A New Perspective on Brain Death, Feminism, and Disability. Japan: Keiso Shobo) shows the need of feminist approach to the meaning of life. With my paper, I want to bring more attention to the interrelation of the philosophy of life and feminist philosophy and raise some new questions that will need further exploration.</p>
+  </p>
+</details>
+</p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Religious feminism online 
+as a challenge to the religious-secular binary</b></h4></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;"> 25 June - 29 June 2019</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>Feminism and Religion in modern world: are there
+any way for reconciliation?</i>, European Association for the Study of Religions (EASR), University of Tartu, Estonia/td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>The quick development of digital technologies and easy access to any sort of information, together with the fight against gender, racial, and other inequalities, have dramatically changed our relation to religion. From the feminist perspective, many voices criticize religious worldviews as old-fashioned, patriarchal, and gender-biased (Stanton, 1885; De Beauvoir, 1953; Hartmann, 1981; Johnson, 1993, etc.). It seems that the relationships between feminism and religion could be best described as a conflict if we apply Barbour's model of science and religion relations (Barbour, 2000). Digital technologies and popular culture support and even deepen this conflict: religion is portrayed as hostile and patriarchal in popular books and movies (e.g. The Handmaid's Tale), a lot of feminists hold atheist views, the rise of social media and, as a result of it, feminist online activism have shown how religious worldview institutionalize patriarchy through the interpretations of scriptures, religious ceremonies, practices, and the church's organization. It seems that we have a religious crisis in the feminist movement. But are there any ways for the reconciliation between religion and feminism? In my talk, I try to argue that feminism and religion could have a productive dialogue and even integration. Thus, my interest in the investigations in the field of sexual theology, as well as the new interpretations of sacred texts, gave me the opportunity to show that religion does not always mean patriarchy. We can build a feminist theology in which a woman is equal to a man and create accordingly new interpretations of scriptures as well as religious practices. At the same time, we can show women have a right to choose to be religious or not and that religion is perfectly suitable with the feminist worldview and even helps to liberate women.</p>
+</details>
+</p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>15 minutes about Cybersex</b></h4></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;"> 2 May 2019</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tallinn</i>, Estonia/td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>In my public lecture, I talk about how modern technologies have changed our definition of sexuality. I explain:
+- What is virtual sex?
+- What does it mean to have sex through technology?
+- And why does virtual sex feel so real?
+You will also learn a little more about the philosophy and ethics of sex.</p>
+</details>
+</p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>15 minutes about Sex Work</b></h4><p>(co-talk with Anastasiia Popova</p></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;"> 4 December 2018</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tartu</i>, Estonia/td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>In our public lecture, I speak about what philosophers and feminists say about sex work, while my colleague, Anastasiia, explains this topic from sociological perspective</p>
+</details>
+</p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>15 minutes about Normal Sex</b></h4></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;"> 3 October 2018</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tartu</i>, Estonia/td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>In my public lecture, I explain whether it is possible to define what is normal and perverted sex in the philosophy and ethics of sex.</p>
+</details>
+</p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>15 minutes about cybersex</b></h4><p><a href="[https://youtu.be/y7vTZzGf-Ws?si=HwFUl4AJrJoeZIFN](https://youtu.be/V3ApEP55LZU?si=_rs7rhDoDATyimUa)">watch on youtube</a></p></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;"> 28 March 2018</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>15x4 Tartu</i>, Estonia/td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>In my public lecture, I talk about how modern technologies have changed our definition of sexuality. I explain:
+- What is virtual sex?
+- What does it mean to have sex through technology?
+- And why does virtual sex feel so real?
+You will also learn a little more about the philosophy and ethics of sex.</p>
+</details>
+</p>
+<hr>
