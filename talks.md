@@ -175,6 +175,22 @@ Moreover, I would like to pay attention to the fact that during the last decade,
 <hr>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Sexual Theology in the Age of Digital Technologies: How do they affect our spirituality and embodiment?</b></h4></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">28-29 May 2020</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>Estonian-Latvian doctoral conference in theology and religious studies</i>, University of Tartu, Estonia</td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>In my talk, I will give an overview of the research done on cybersex in theology and religious studies. 
+  </p>
+</details>
+</p>
+<hr>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
     <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>What is the possible feminist approach to the meaning in life?</b></h4></td>
   </tr>
   <tr>
