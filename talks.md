@@ -24,11 +24,11 @@ Since using chatbots, AI has shown racist, sexist, and discriminatory behavior, 
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Ukrainian feminists about the war: nationalism, the fight against colonialism and personal experience (invited)</b></h4><p>(Украинские феминистки про войну: национализм, борьба с колониализмом и личный опыт) (<a href="https://youtu.be/y7vTZzGf-Ws?si=HwFUl4AJrJoeZIFN">watch on youtube (in Russian)</a>)</p></td>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Ukrainian feminists about the war: nationalism, the fight against colonialism and personal experience (invited)</b></h4><p>(Украинские феминистки про войну: национализм, борьба с колониализмом и личный опыт)<p><a href="https://youtu.be/y7vTZzGf-Ws?si=HwFUl4AJrJoeZIFN">watch on youtube (in Russian)</a></p></p></td>
   </tr>
   <tr>
     <td style="border: none; padding: 0 5px 0 0; text-align: left;">20 May 2023</td>
-    <td style="border: none; padding: 0 5px 0 0; text-align: left;"><i>Women's faces of war/history</i>, Feminist Anti-War Resistance (Tallinn), Estonia </td>
+    <td style="border: none; padding: 0 5px 0 0; text-align: left;"><i>Women's faces of war and history</i>, Feminist Anti-War Resistance (Tallinn), Estonia</td>
   </tr>
 </table>
 <p><details>
@@ -40,7 +40,7 @@ Since using chatbots, AI has shown racist, sexist, and discriminatory behavior, 
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Between gender equality and religion: the pious Baltic Muslim women’s quest for ‘true’ Islam (co-author with Morta Vidūnaitė (Vytautas Magnus University, Lithuania) and Anne Hege Grung (University of Oslo, Norway))</h4></b></td>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Between gender equality and religion: the pious Baltic Muslim women’s quest for ‘true’ Islam (co-author with Morta Vidūnaitė (Vytautas Magnus University, Lithuania) and Anne Hege Grung (University of Oslo, Norway))</b></h4></td>
   </tr>
   <tr>
     <td style="border: none; padding: 0; text-align: left;">20-21 April 2023</td>
