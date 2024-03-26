@@ -42,7 +42,7 @@ Since using chatbots, AI has shown racist, sexist, and discriminatory behavior, 
 <p>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Between gender equality and religion: the pious Baltic Muslim women’s quest for ‘true’ Islam (co-author with Morta Vidūnaitė (Vytautas Magnus University, Lithuania) and Anne Hege Grung (University of Oslo, Norway)</h4></b></td>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>Between gender equality and religion: the pious Baltic Muslim women’s quest for ‘true’ Islam (co-author with Morta Vidūnaitė (Vytautas Magnus University, Lithuania) and Anne Hege Grung (University of Oslo, Norway))</h4></b></td>
   </tr>
   <tr>
     <td style="border: none; padding: 0; text-align: left;">20-21 April 2023</td>
