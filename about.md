@@ -13,4 +13,4 @@ layout: page
 
 <p>I grew up in Sevastopol, Ukraine, and I am proudly Ukrainian 🇺🇦</p>
 
-<p>Here is the link to my CV: <a href="link to cv">pdf</a>, <a href="link to cv">google doc</a>.</p>
+<p>Link to my CV: <a href="link to cv">pdf</a>, <a href="link to cv">google doc</a>.</p>
