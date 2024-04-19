@@ -3,7 +3,7 @@ title: Talks
 layout: page
 ---
 
-<h2>Conference and Workshop Presentations, Public Lectures</h2>
+<h2 align="center">Conference and Workshop Presentations, Public Lectures</h2>
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
