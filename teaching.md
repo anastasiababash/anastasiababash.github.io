@@ -3,7 +3,7 @@ title: Teaching
 layout: page
 ---
 
-<h2>Teaching</h2>
+<h2 align="center">Teaching</h2>
 
 <div style="border: none;">  
     <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 10px; border-bottom: 1px solid black;">
