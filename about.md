@@ -13,5 +13,4 @@ layout: page
 
 <p>I grew up in Sevastopol, Ukraine, and I am proudly Ukrainian 🇺🇦</p>
 
-<p>Outside of philosophy, I do yoga, dance tango, and work on the occasional design projects.</p> 
-
+<p>Here is the link to my CV: <a href="link to cv">pdf</a>, <a href="link to cv">google doc</a>.</p>
