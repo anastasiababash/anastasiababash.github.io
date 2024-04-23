@@ -14,7 +14,7 @@ layout: page
      <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
         <div style="text-align: center;"><p>Autumn 2022</p></div>
         <div style="padding: 0 10px;">
-            <p style="text-align: center;"><b>Cybersex and Religion: Newest Challenges in Sexual Theology</b><br><a href="https://ut.ee/et/node/137447">(description)</a></p>
+            <p style="text-align: center;"><b>Cybersex and Religion: Newest Challenges in Sexual Theology</b></p>
             <ul style="text-align: left;">
                 <li>designed and developed a one-semester curriculum <a href="https://drive.google.com/file/d/1lBmRxsH46rFjLhsKWp0Xq92KIvetE1_x/view?usp=sharing">(link to the program)</a>.</li>
                 <li>provided an in-depth overview of contemporary philosophical and theological discussions concerning cyberlove and cybersex.</li>
