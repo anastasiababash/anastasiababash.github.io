@@ -48,6 +48,18 @@ layout: page
         </div>
         <div style="text-align: center;"><p>Bazaleti University, Georgia</p></div>
     </div>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
+        <div style="text-align: center;"><p>June 2021 - August 2022</p></div>
+        <div style="padding: 0 10px;">
+            <p style="text-align: center;"><b>The Philosopher Queens</b></p>
+            <ul style="text-align: left;">
+                <li>organize my own online course on women in philosophy.</li>
+                <li>meeting once in two weeks to discuss the life and works of women in philosophy.</li>
+                <li>based my course on the book "The Philosopher Queens: The Lives and Legacies of Philosophy's Unsung Women" </li>
+            </ul>
+        </div>
+        <div style="text-align: center;"><p>self-organized, online</p></div>
+    </div>
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
     <div style="text-align: center;"><p>April 2021</p></div>
     <div style="padding: 0 10px;">
