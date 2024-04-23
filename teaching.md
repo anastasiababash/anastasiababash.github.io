@@ -49,7 +49,7 @@ layout: page
         <div style="text-align: center;"><p>Bazaleti University, Georgia</p></div>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 5px 10px; border-bottom: 1px solid black;">
-        <div style="text-align: center;"><p>June 2021 - August 2022</p></div>
+        <div style="text-align: center;"><p>June <br>2021<br> - August <br>2022</p></div>
         <div style="padding: 0 10px;">
             <p style="text-align: center;"><b>The Philosopher Queens</b></p>
             <ul style="text-align: left;">
