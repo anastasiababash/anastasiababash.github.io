@@ -1,14 +1,29 @@
 ---
 title: Hello world
 layout: post
-date: 2024-04-24 00:00
+date: 2024-04-26 00:00
 headerImage: false
 tag:
-- helloworld
 - about me
 category: blog
 author: anastasiiababash
-description: test
+description: about me
 ---
 
-post test
+Hi!
+
+My name is Anastasiia (yes, with two ii), and this is my personal page. 
+
+I plan to post here my blog posts in English (some of them are translations from my [telegram blog](https://t.me/s/nastya_philosophy)). You can also find the links to my academic and non-academic papers here and information about my talks, courses, etc. 
+    
+Currently I am a Junior Research Fellow and a Ph.D. candidate in the School of Theology and Religious Studies at the University of Tartu, Estonia. I plan to defend my Ph.D. in 2024. My Ph.D. thesis is focused on philosophical and religious views on cybersex, as well as the ethics behind it. Broadly, I am interested in how modern technology has changed how we love, have sex, and build relationships. I am also interested in feminism and political philosophy.
+
+Beyond academia, I am dedicated to making philosophy accessible to a wider audience. I run my [blog on philosophy](https://t.me/s/nastya_philosophy) and write for [Signal](https://getsignal.news), [Beda.Media](https://beda.media) and in the past for [Knife.Media](https://knife.media/author/anastasiya-babash/). I also teach in academia (University of Tartu) and outside it (inLiberty Schools or my own courses). 
+
+Outside of philosophy, I do yoga, dance tango, and work on the occasional design projects.
+
+I grew up in Sevastopol (Crimea, Ukraine), and I am proudly Ukrainian 🇺🇦
+
+I am always open to cooperation; contact me via email or any social media platform you prefer.
+
+See you in my blog!
