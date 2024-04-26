@@ -12,7 +12,7 @@ description: about me
 
 Hi!
 
-My name is Anastasiia (yes, with two ii), and this is my personal page. 
+My name is Anastasiia (yes, with two ii), and welcome to my personal page.
 
 I plan to post here my blog posts in English (some of them are translations from my [telegram blog](https://t.me/s/nastya_philosophy)). You can also find the links to my academic and non-academic papers here and information about my talks, courses, etc. 
     
