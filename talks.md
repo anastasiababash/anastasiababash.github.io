@@ -7,6 +7,23 @@ layout: page
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
+    <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>"ChatGPT Found Me a Wife": The Ethics of AI-mediated Online Dating (invited) </b></h4></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: left;">12-13 September 2024</td>
+    <td style="border: none; padding: 0 0 0 5px; text-align: left;"><i>Ethical Dating Online Workshop</i>, University of Leeds, UK</td>
+  </tr>
+</table>
+<p><details>
+  <summary>Abstract</summary>
+  <p>The rapid integration of artificial intelligence (AI) in nearly every sphere of modern life has reshaped how we approach daily tasks, including the way we navigate romantic relationships through dating apps. AI-powered features, such as conversation prompts, personalized recommendations, and matchmaking algorithms, promise to decrease or even eliminate "dating fatigue," a state of emotional exhaustion caused by the repetitive, impersonal, and transactional nature of online dating that has become a common challenge for users. This chapter explores the ethical implications of using AI in dating apps, questioning whether it is appropriate to outsource certain intimate tasks to technology and to what extent AI can ethically mediate such interactions. It discusses major risks associated with AI-mediated dating, including algorithmic biases, lack of transparency, and the fostering of dependency on algorithm-driven interactions. Subsequently, it proposes a harm-reduction approach to managing AI-mediated dating. This approach aims to mitigate the potential harm AI may cause, while recognizing that AI-mediated dating itself may offer a way to reduce the harm caused by traditional online dating. Ultimately, this work seeks to contribute to a broader understanding of how technology can be designed to foster healthy and authentic relationships in the digital age. 
+</p>
+</details>
+</p>
+<hr>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
     <td style="border: none; padding: 0px; text-align: left;" colspan="2"><h4><b>"I Date a ChatBot": exploring discrimination in love and sex with AI (invited)</b></h4></td>
   </tr>
   <tr>
