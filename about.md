@@ -15,4 +15,4 @@ layout: page
 
 <p>I grew up in Sevastopol (Crimea, Ukraine), and I am proudly Ukrainian 🇺🇦</p>
 
-<p>Link to my CV: <a href="https://drive.google.com/file/d/1aHrjtV7enjsbUs0Rj3qdCOTVlicwHm2F/view?usp=sharing">pdf</a>, <a href="https://docs.google.com/document/d/12ZXSZw_H9Z_qMcnYoS7WKelHm6Hle4vhwonLZMg1mmQ/edit?usp=sharing">google doc</a>.</p>
+<p>Link to my CV: <a href="https://drive.google.com/file/d/1S1ku_gRuhM0vUghAILmRT8rS3FyUrP5F/view?usp=sharing">pdf</a>, <a href="https://docs.google.com/document/d/1OMm6o8XbE118aRmekNcAPjc336G1BVY8SnxFnpY4U7g/edit?usp=sharing">google doc</a>.</p>
